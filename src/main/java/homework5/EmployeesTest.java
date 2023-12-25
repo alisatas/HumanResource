@@ -15,7 +15,7 @@ public class EmployeesTest {
         employee2.surname = "Musk";
         employee2.age = 52;
         employee2.gender = "Man";
-        employee2.department = "Co Founder of SpaceX";
+        employee2.department = "Co-Founder of SpaceX and X";
 
         System.out.println("====================================");
         employee1.employeeName();
