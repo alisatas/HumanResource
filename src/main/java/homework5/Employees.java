@@ -7,23 +7,23 @@ public class Employees {
     String gender;
     String department;
 
-    public void employeesName(){
+    public void employeeName(){
         System.out.println("Employee's name: " + name);
     }
 
-    public void employeesSurname(){
+    public void employeeSurname(){
         System.out.println("Employee's surname: " + surname);
     }
 
-    public void employeesAge(){
+    public void employeeAge(){
         System.out.println("Employee's age: " + age);
     }
 
-    public void employeesGender(){
+    public void employeeGender(){
         System.out.println( "Employee's gender: " + gender);
     }
 
-    public void employeesDepartment(){
+    public void employeeDepartment(){
         System.out.println("Employee's department: " + department);
     }
 }

@@ -18,17 +18,17 @@ public class EmployeesTest {
         employee2.department = "Co Founder of SpaceX";
 
         System.out.println("====================================");
-        employee1.employeesName();
-        employee1.employeesSurname();
-        employee1.employeesAge();
-        employee1.employeesGender();
-        employee1.employeesDepartment();
+        employee1.employeeName();
+        employee1.employeeSurname();
+        employee1.employeeAge();
+        employee1.employeeGender();
+        employee1.employeeDepartment();
         System.out.println("====================================");
-        employee2.employeesName();
-        employee2.employeesSurname();
-        employee2.employeesAge();
-        employee2.employeesGender();
-        employee2.employeesDepartment();
+        employee2.employeeName();
+        employee2.employeeSurname();
+        employee2.employeeAge();
+        employee2.employeeGender();
+        employee2.employeeDepartment();
         System.out.println("====================================");
 
 
