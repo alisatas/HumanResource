@@ -1,4 +1,4 @@
-package homework12;
+package homework9;
 
 public class SquareRootCalculator {
 

@@ -1,4 +1,4 @@
-package homework15;
+package homework11;
 
 class Singleton {
     private static Singleton instance;

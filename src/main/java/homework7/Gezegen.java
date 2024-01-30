@@ -1,4 +1,4 @@
-package homework10;
+package homework7;
 
 public enum Gezegen {
     MERCURY(1, 0.39, 2439.7, 87.97),

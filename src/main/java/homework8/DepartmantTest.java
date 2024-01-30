@@ -1,4 +1,4 @@
-package homework11;
+package homework8;
 
 public class DepartmantTest extends Departmant {
     public static void main(String[] args) {

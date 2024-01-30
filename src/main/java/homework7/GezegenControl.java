@@ -1,4 +1,4 @@
-package homework10;
+package homework7;
 
 public class GezegenControl {
     public static void main(String[] args) {
