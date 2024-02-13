@@ -29,7 +29,7 @@ public class PreparedStatementExample {
             handle.createUpdate ( "UPDATE ad_soyad SET name = :name WHERE id = :id" ).bind ( "name", "William" ).bind ( "id", 2 )
              .execute ( );
             System.out.println ( "Item updated successfully!" );
-            handle.createUpdate ( "DELETE FROM ad_soyad WHERE id = :id" ).bind ( "id", 3 )  // Delete the record with the provided ID
+            handle.createUpdate ( "DELETE FROM ad_soyad WHERE id = :id" ).bind ( "id", 3 )  
              .execute ( );
             System.out.println ( "Item deleted successfully!" );
         }
