@@ -24,7 +24,7 @@ public class ElemenFinder {
         if (result != null) {
             System.out.println("Element found: " + result);
         } else {
-            System.out.println("Element not found");
+            System.out.println("Element not found, return -1");
         }
     }
 }
